@@ -10,7 +10,7 @@ I want to do my project on National Park Attendance across the nation over time.
 
 <iframe
   src="Alaska_destinations_delays.html"
-  width="900"
-  height="600"
+  width="700"
+  height="500"
   frameborder="0">
 </iframe>
